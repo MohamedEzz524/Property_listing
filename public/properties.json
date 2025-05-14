@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Downtown Apartment",
+    "description": "Immerse yourself in the beauty of the Nordic landscape at this sleek and stylish cabin. With floor-to-ceiling windows and a spacious deck, you'll have breathtaking views of the surrounding mountains.",
+    "location": "New York",
+    "price": 800,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1626222628055-fb92dd194160?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTR8fGhvdXNlfGVufDB8fDB8fHww",
+    "superhost": true,
+    "capacity": { "bedrooms": 3, "bathrooms": 2, "people": 4 }
+  },
+  {
+    "id": 2,
+    "title": "Alpine Mountain Chalet",
+    "description": "Cozy wooden chalet nestled in the Swiss Alps with panoramic mountain views and a traditional fireplace.",
+    "location": "Switzerland",
+    "price": 900,
+    "rating": 4.8,
+    "image": "https://plus.unsplash.com/premium_photo-1661876567457-d9bd96f4b67f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHxob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 4, "bathrooms": 3, "people": 3 }
+  },
+  {
+    "id": 3,
+    "title": "Scandinavian Lakeside Cabin",
+    "description": "Minimalist design meets nature in this serene cabin overlooking a crystal-clear Finnish lake.",
+    "location": "Finland",
+    "price": 1200,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1593398395073-ae53c3870037?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYyfHxob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "superhost": false,
+    "capacity": { "bedrooms": 5, "bathrooms": 3, "people": 8 }
+  },
+  {
+    "id": 4,
+    "title": "Urban Loft with City Views",
+    "description": "Industrial-chic loft in the heart of Manhattan with exposed brick walls and skyline views.",
+    "location": "New York",
+    "price": 1350,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1608429835892-30be51ea4d6c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 5, "bathrooms": 2, "people": 6 }
+  },
+  {
+    "id": 5,
+    "title": "Norwegian Fjord Retreat",
+    "description": "Secluded glass cabin perched on a cliffside offering uninterrupted views of majestic Norwegian fjords.",
+    "location": "Norway",
+    "price": 1100,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1631149784601-8e6c266b046a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTY3fHxob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 4, "bathrooms": 2, "people": 6 }
+  },
+  {
+    "id": 6,
+    "title": "Swedish Forest Hideaway",
+    "description": "Eco-friendly cabin hidden among pine trees with a wood-fired sauna and nature trails.",
+    "location": "Sweden",
+    "price": 1050,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1602895931791-d78ac88edc7b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjYyfHxob3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "superhost": false,
+    "capacity": { "bedrooms": 5, "bathrooms": 3, "people": 6 }
+  },
+  {
+    "id": 7,
+    "title": "Seaside White Cottage",
+    "description": "Elegant penthouse overlooking Central Park with contemporary décor and panoramic views.",
+    "location": "New York",
+    "price": 840,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "superhost": true,
+    "capacity": { "bedrooms": 3, "bathrooms": 3, "people": 2 }
+  },
+  {
+    "id": 8,
+    "title": "Modern Scandinavian Home",
+    "description": "Stay under the stars in this heated dome made for stargazing and northern lights views.",
+    "location": "Finland",
+    "price": 780,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8fDA%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 1, "bathrooms": 1, "people": 1 }
+  },
+  {
+    "id": 9,
+    "title": "Brooklyn Garden Loft",
+    "description": "A restored brownstone with charming interiors and private patio garden.",
+    "location": "New York",
+    "price": 1000,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1661915661139-5b6a4e4a6fcc?q=80&w=1567&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": false,
+    "capacity": { "bedrooms": 2, "bathrooms": 1, "people": 1 }
+  },
+  {
+    "id": 10,
+    "title": "Swiss Slope Retreat",
+    "description": "Modern chalet with floor-to-ceiling windows, ski lift access, and cozy fireplace.",
+    "location": "Switzerland",
+    "price": 1300,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 5, "bathrooms": 3, "people": 7 }
+  },
+  {
+    "id": 11,
+    "title": "Norwegian Ocean Cabin",
+    "description": "Architectural gem suspended above cliffs with ocean breeze and stunning sunsets.",
+    "location": "Norway",
+    "price": 970,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 5, "bathrooms": 4, "people": 5 }
+  },
+  {
+    "id": 12,
+    "title": "Creative Soho Loft",
+    "description": "Loft designed for artists with natural light, hardwood floors, and studio vibes.",
+    "location": "New York",
+    "price": 1400,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": false,
+    "capacity": { "bedrooms": 5, "bathrooms": 3, "people": 8 }
+  },
+  {
+    "id": 13,
+    "title": "Forest Treehouse Escape",
+    "description": "Hand-crafted treehouse retreat among tall pines with hammock deck and forest views.",
+    "location": "Switzerland",
+    "price": 500,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": false,
+    "capacity": { "bedrooms": 2, "bathrooms": 2, "people": 4 }
+  },
+  {
+    "id": 14,
+    "title": "Serene Lakefront Cabin",
+    "description": "Modern cabin with clean lines, firepit, and a private pier on the lake.",
+    "location": "Sweden",
+    "price": 1400,
+    "rating": 4.7,
+    "image": "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fGhvdXNlfGVufDB8fDB8fHww",
+    "superhost": true,
+    "capacity": { "bedrooms": 4, "bathrooms": 2, "people": 6 }
+  },
+  {
+    "id": 15,
+    "title": "Glass Garden Villa",
+    "description": "Stylish mid-century villa surrounded by curated gardens and designer interiors.",
+    "location": "New York",
+    "price": 540,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1611602132416-da2045990f76?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvdXNlfGVufDB8fDB8fHww",
+    "superhost": true,
+    "capacity": { "bedrooms": 3, "bathrooms": 2, "people": 2 }
+  },
+  {
+    "id": 16,
+    "title": "Aurora Wilderness Lodge",
+    "description": "Snow-covered lodge with glass ceiling to view auroras and fireplace to keep cozy.",
+    "location": "Finland",
+    "price": 600,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1592595896616-c37162298647?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 4, "bathrooms": 2, "people": 5 }
+  },
+  {
+    "id": 17,
+    "title": "Waterfront A-Frame Cabin",
+    "description": "Quaint A-frame with deck over fjord waters, ideal for peaceful mornings.",
+    "location": "Norway",
+    "price": 540,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fGhvdXNlfGVufDB8fDB8fHww",
+    "superhost": false,
+    "capacity": { "bedrooms": 2, "bathrooms": 1, "people": 1 }
+  },
+  {
+    "id": 18,
+    "title": "Smart Designer Studio",
+    "description": "Compact apartment with stylish finishes and voice-controlled smart lighting.",
+    "location": "New York",
+    "price": 1000,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1584738766473-61c083514bf4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGhvdXNlfGVufDB8fDB8fHww",
+    "superhost": false,
+    "capacity": { "bedrooms": 4, "bathrooms": 3, "people": 6 }
+  },
+  {
+    "id": 19,
+    "title": "Wildflower Cottage",
+    "description": "Colorful cottage with vintage accents and expansive meadows all around.",
+    "location": "Switzerland",
+    "price": 875,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1598228723793-52759bba239c?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 4, "bathrooms": 2, "people": 5 }
+  },
+  {
+    "id": 20,
+    "title": "Traditional Sauna Home",
+    "description": "Authentic Swedish countryside home with lakeside view and wood sauna.",
+    "location": "Sweden",
+    "price": 725,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG91c2V8ZW58MHx8MHx8fDA%3D",
+    "superhost": true,
+    "capacity": { "bedrooms": 2, "bathrooms": 1, "people": 4 }
+  }
+]
