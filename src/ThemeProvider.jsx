@@ -4,7 +4,7 @@ import logo from "./assets/Logo2-removebg-preview.png";
 
 const ThemeProvider = ({ theme, toggleTheme }) => {
   return (
-    <div className="w-full container fixed top-5 right-0 z-50 flex justify-between items-center">
+    <div className="w-full container fixed top-5 right-0 z-40 flex justify-between items-center">
       <motion.img
         initial={{ opacity: 0, x: -50 }}
         animate={{ opacity: 1, x: 0 }}

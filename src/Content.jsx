@@ -48,8 +48,7 @@ const Content = () => {
   // Memoized fetch function to prevent unnecessary recreations
   const fetchData = useCallback(async () => {
     try {
-      const response = await fetch("/properties.json");
-      // "https://raw.githubusercontent.com/devchallenges-io/curriculum/refs/heads/main/4-frontend-libaries/challenges/group_1/data/property-listing-data.json"
+      const response = await fetch("/Property_listing/properties.json");
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
